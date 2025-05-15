@@ -1,0 +1,333 @@
+[
+    {
+        "timeStamp": 1747305671631,
+        "ontologyName": "Kya-standards-v1-v1-1",
+        "ontologyId": "6825c636178293753b8d4c58",
+        "ontologyCreateStatus": {
+            "message": "Ontology imported successfully",
+            "actionType": "CREATED",
+            "ontologyId": "6825c636178293753b8d4c58",
+            "creationRequest": {
+                "ontologyId": "6825c636178293753b8d4c58",
+                "universes": [
+                    "66e2f144902a0633d63e2a9d"
+                ],
+                "url": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/2d410658-5073-4971-a47c-082c19273ffc_$$_V1_test.ttl",
+                "ontologyName": "Kya-standards-v1-v1-1",
+                "semanticStructures": "ONTOLOGY",
+                "fileType": "Turtle",
+                "tenantID": "2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64"
+            }
+        },
+        "jobId": "6825c6528f68ae5521a70949",
+        "createKgResponseData": {
+            "id": "6825c6528f68ae5521a70949",
+            "name": "Kya-standards-v1-v1-1",
+            "msg": "GraphRag Job Created",
+            "description": "Testing",
+            "fileType": "PDF",
+            "parallelism": 4,
+            "jarVersion": "12.3.0",
+            "jobType": "ONE_TIME",
+            "tags": {
+                "BLUE": [
+                    "qwertyui"
+                ]
+            },
+            "mappingConfig": {
+                "autoMap": false,
+                "mappings": {},
+                "nodeMappings": {},
+                "relationMappings": {},
+                "destinationSchema": "675c97489c260269d2c30e15",
+                "urlProperties": {},
+                "fileSize": 0,
+                "fileUploaded": false
+            },
+            "source": {
+                "sourceType": "FILE",
+                "kafkaProps": {},
+                "graphRagProps": {
+                    "ontologyId": "6825c636178293753b8d4c58",
+                    "contentId": "ef9d978f-3dcf-4a0a-8ff4-8400476a6591",
+                    "ontologyName": "Kya-standards-v1-v1-1"
+                }
+            },
+            "persist": false,
+            "reactive": false,
+            "cep": false
+        },
+        "kgIntegrationStatus": {
+            "ontologyId": "6825c636178293753b8d4c58",
+            "ontologyName": "Kya-standards-v1-v1-1",
+            "jobStatus": "PROCESSING...",
+            "statusDescription": "PROCESSING...",
+            "jobId": "6825c6528f68ae5521a70949"
+        }
+    },
+    {
+        "timeStamp": 1747306934588,
+        "ontologyName": "Kya-standards-v1-v1-1",
+        "ontologyId": "6825cb24178293753b8d4c5b",
+        "ontologyCreateStatus": {
+            "message": "Ontology imported successfully",
+            "actionType": "CREATED",
+            "ontologyId": "6825cb24178293753b8d4c5b",
+            "creationRequest": {
+                "ontologyId": "6825cb24178293753b8d4c5b",
+                "universes": [
+                    "66e2f144902a0633d63e2a9d"
+                ],
+                "url": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/79c96ffe-3b9f-4b8b-bbe0-72a1c15cfe4f_$$_V1_test.ttl",
+                "ontologyName": "Kya-standards-v1-v1-1",
+                "semanticStructures": "ONTOLOGY",
+                "fileType": "Turtle",
+                "tenantID": "2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64"
+            }
+        },
+        "jobId": "6825cb408f68ae5521a7094b",
+        "createKgResponseData": {
+            "id": "6825cb408f68ae5521a7094b",
+            "name": "Kya-standards-v1-v1-1",
+            "msg": "GraphRag Job Created",
+            "description": "Testing",
+            "fileType": "PDF",
+            "parallelism": 4,
+            "jarVersion": "12.3.0",
+            "jobType": "ONE_TIME",
+            "tags": {
+                "BLUE": [
+                    "qwertyui"
+                ]
+            },
+            "mappingConfig": {
+                "autoMap": false,
+                "mappings": {},
+                "nodeMappings": {},
+                "relationMappings": {},
+                "destinationSchema": "675c97489c260269d2c30e15",
+                "urlProperties": {},
+                "fileSize": 0,
+                "fileUploaded": false
+            },
+            "source": {
+                "sourceType": "FILE",
+                "kafkaProps": {},
+                "graphRagProps": {
+                    "ontologyId": "6825cb24178293753b8d4c5b",
+                    "contentId": "ac401260-e857-4878-bf46-2fd5b0008455",
+                    "ontologyName": "Kya-standards-v1-v1-1"
+                }
+            },
+            "persist": false,
+            "reactive": false,
+            "cep": false
+        },
+        "kgIntegrationStatus": {
+            "ontologyId": "6825cb24178293753b8d4c5b",
+            "ontologyName": "Kya-standards-v1-v1-1",
+            "jobStatus": "PROCESSING...",
+            "statusDescription": "PROCESSING...",
+            "jobId": "6825cb408f68ae5521a7094b"
+        }
+    },
+    {
+        "timeStamp": 1747310262402,
+        "ontologyName": "Kya-standards-v1-88240e34-714c-4dca-b2f0-3fefd934810c",
+        "ontologyId": "6825d825178293753b8d4c5c",
+        "ontologyCreateStatus": {
+            "message": "Ontology imported successfully",
+            "actionType": "CREATED",
+            "ontologyId": "6825d825178293753b8d4c5c",
+            "creationRequest": {
+                "ontologyId": "6825d825178293753b8d4c5c",
+                "universes": [
+                    "66e2f144902a0633d63e2a9d"
+                ],
+                "url": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/9670cf26-75af-4a54-a4b2-2ab87b1b34b2_$$_V1_test.ttl",
+                "ontologyName": "Kya-standards-v1-88240e34-714c-4dca-b2f0-3fefd934810c",
+                "semanticStructures": "ONTOLOGY",
+                "fileType": "Turtle",
+                "tenantID": "2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64"
+            }
+        },
+        "kgFileUrl": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/48e190a1-ff7c-43ca-b194-46c599d36e83_$$_V1_test.pdf",
+        "jobId": "6825d8438f68ae5521a7094c",
+        "createKgResponseData": {
+            "id": "6825d8438f68ae5521a7094c",
+            "name": "Kya-standards-v1-88240e34-714c-4dca-b2f0-3fefd934810c}",
+            "msg": "GraphRag Job Created",
+            "description": "Testing",
+            "fileType": "TXT",
+            "parallelism": 4,
+            "jarVersion": "12.3.0",
+            "jobType": "ONE_TIME",
+            "tags": {
+                "BLUE": [
+                    "qwertyui"
+                ]
+            },
+            "mappingConfig": {
+                "autoMap": false,
+                "mappings": {},
+                "nodeMappings": {},
+                "relationMappings": {},
+                "destinationSchema": "675c97489c260269d2c30e15",
+                "urlProperties": {},
+                "fileSize": 0,
+                "fileUploaded": false
+            },
+            "source": {
+                "sourceType": "FILE",
+                "kafkaProps": {},
+                "graphRagProps": {
+                    "ontologyId": "6825d825178293753b8d4c5c",
+                    "contentId": "48e190a1-ff7c-43ca-b194-46c599d36e83",
+                    "ontologyName": "Kya-standards-v1-88240e34-714c-4dca-b2f0-3fefd934810c"
+                }
+            },
+            "persist": false,
+            "reactive": false,
+            "cep": false
+        },
+        "kgIntegrationStatus": {
+            "jobStatus": "NOT_FOUND",
+            "statusDescription": "No record found for the given job ID",
+            "jobId": "6825d8438f68ae5521a7094c"
+        }
+    },
+    {
+        "timeStamp": 1747310338171,
+        "ontologyName": "Kya-standards-v1-c63ebbc2-13d7-4ae9-a144-0bb68b434d14",
+        "ontologyId": "6825d870178293753b8d4c5d",
+        "ontologyCreateStatus": {
+            "message": "Ontology imported successfully",
+            "actionType": "CREATED",
+            "ontologyId": "6825d870178293753b8d4c5d",
+            "creationRequest": {
+                "ontologyId": "6825d870178293753b8d4c5d",
+                "universes": [
+                    "66e2f144902a0633d63e2a9d"
+                ],
+                "url": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/e04e4eeb-8347-4cad-a2ea-39d7500d552c_$$_V1_test.ttl",
+                "ontologyName": "Kya-standards-v1-c63ebbc2-13d7-4ae9-a144-0bb68b434d14",
+                "semanticStructures": "ONTOLOGY",
+                "fileType": "Turtle",
+                "tenantID": "2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64"
+            }
+        },
+        "kgFileUrl": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/c778fec2-d757-47af-ae4f-e153a50bbbd9_$$_V1_test.pdf",
+        "jobId": "6825d88d8f68ae5521a7094d",
+        "createKgResponseData": {
+            "id": "6825d88d8f68ae5521a7094d",
+            "name": "Kya-standards-v1-c63ebbc2-13d7-4ae9-a144-0bb68b434d14}",
+            "msg": "GraphRag Job Created",
+            "description": "Testing",
+            "fileType": "TXT",
+            "parallelism": 4,
+            "jarVersion": "12.3.0",
+            "jobType": "ONE_TIME",
+            "tags": {
+                "BLUE": [
+                    "qwertyui"
+                ]
+            },
+            "mappingConfig": {
+                "autoMap": false,
+                "mappings": {},
+                "nodeMappings": {},
+                "relationMappings": {},
+                "destinationSchema": "675c97489c260269d2c30e15",
+                "urlProperties": {},
+                "fileSize": 0,
+                "fileUploaded": false
+            },
+            "source": {
+                "sourceType": "FILE",
+                "kafkaProps": {},
+                "graphRagProps": {
+                    "ontologyId": "6825d870178293753b8d4c5d",
+                    "contentId": "c778fec2-d757-47af-ae4f-e153a50bbbd9",
+                    "ontologyName": "Kya-standards-v1-c63ebbc2-13d7-4ae9-a144-0bb68b434d14"
+                }
+            },
+            "persist": false,
+            "reactive": false,
+            "cep": false
+        },
+        "kgIntegrationStatus": {
+            "ontologyId": "6825d870178293753b8d4c5d",
+            "ontologyName": "Kya-standards-v1-c63ebbc2-13d7-4ae9-a144-0bb68b434d14",
+            "jobStatus": "PROCESSING...",
+            "statusDescription": "PROCESSING...",
+            "jobId": "6825d88d8f68ae5521a7094d"
+        }
+    },
+    {
+        "timeStamp": 1747310561769,
+        "ontologyName": "Kya-standards-v1-f6d6c31e-2916-4f5e-a057-453dff946255",
+        "ontologyId": "6825d950178293753b8d4c5e",
+        "ontologyCreateStatus": {
+            "message": "Ontology imported successfully",
+            "actionType": "CREATED",
+            "ontologyId": "6825d950178293753b8d4c5e",
+            "creationRequest": {
+                "ontologyId": "6825d950178293753b8d4c5e",
+                "universes": [
+                    "66e2f144902a0633d63e2a9d"
+                ],
+                "url": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/551254ee-22ec-4c1d-8502-01b7340ce60a_$$_V1_test.ttl",
+                "ontologyName": "Kya-standards-v1-f6d6c31e-2916-4f5e-a057-453dff946255",
+                "semanticStructures": "ONTOLOGY",
+                "fileType": "Turtle",
+                "tenantID": "2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64"
+            }
+        },
+        "kgFileUrl": "https://cdn.gov-cloud.ai/_2cf76e5f-26ad-4f2c-bccc-f4bc1e7bfb64/kyaAgentsStandards/34da1de1-4c1f-451d-9d3e-b5e1dddf3bf8_$$_V1_test.txt",
+        "jobId": "6825d96b8f68ae5521a7094e",
+        "createKgResponseData": {
+            "id": "6825d96b8f68ae5521a7094e",
+            "name": "Kya-standards-v1-f6d6c31e-2916-4f5e-a057-453dff946255}",
+            "msg": "GraphRag Job Created",
+            "description": "Testing",
+            "fileType": "TXT",
+            "parallelism": 4,
+            "jarVersion": "12.3.0",
+            "jobType": "ONE_TIME",
+            "tags": {
+                "BLUE": [
+                    "qwertyui"
+                ]
+            },
+            "mappingConfig": {
+                "autoMap": false,
+                "mappings": {},
+                "nodeMappings": {},
+                "relationMappings": {},
+                "destinationSchema": "675c97489c260269d2c30e15",
+                "urlProperties": {},
+                "fileSize": 0,
+                "fileUploaded": false
+            },
+            "source": {
+                "sourceType": "FILE",
+                "kafkaProps": {},
+                "graphRagProps": {
+                    "ontologyId": "6825d950178293753b8d4c5e",
+                    "contentId": "34da1de1-4c1f-451d-9d3e-b5e1dddf3bf8",
+                    "ontologyName": "Kya-standards-v1-f6d6c31e-2916-4f5e-a057-453dff946255"
+                }
+            },
+            "persist": false,
+            "reactive": false,
+            "cep": false
+        },
+        "kgIntegrationStatus": {
+            "ontologyId": "6825d950178293753b8d4c5e",
+            "ontologyName": "Kya-standards-v1-f6d6c31e-2916-4f5e-a057-453dff946255",
+            "jobStatus": "PROCESSING...",
+            "statusDescription": "PROCESSING...",
+            "jobId": "6825d96b8f68ae5521a7094e"
+        }
+    }
+]
